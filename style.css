@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cal-btn{
+    margin: 10px 0px 0px 220px;
+}
